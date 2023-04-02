@@ -1,4 +1,4 @@
-package com.codingfist.burninghousearticle.domain.article.api;
+package article.api;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

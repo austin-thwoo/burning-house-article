@@ -1,4 +1,4 @@
-package com.codingfist.burninghousearticle.domain.article.domain;
+package article.domain;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

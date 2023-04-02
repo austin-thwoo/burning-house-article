@@ -1,7 +1,7 @@
-package com.codingfist.burninghousearticle.common.error.exception;
+package localCommon.error.exception;
 
 
-import com.codingfist.burninghousearticle.common.error.model.ErrorCode;
+import localCommon.error.model.ErrorCode;
 
 public class DateWrongException extends BusinessException {
     public DateWrongException(String value) {

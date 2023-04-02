@@ -1,4 +1,4 @@
-package com.codingfist.burninghousearticle.domain.article.application;
+package article.application;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
